@@ -8,4 +8,4 @@ This is a simple bot that runs in the console, so I will set up an improvement p
   - add a graphic interface to it to improve user experience,
   - add a natural language functionality, such as Python's nltk,
   - create a database to save the data from the JSON file there and, instead of reading directly from the file, query the database using SQL (this will come in handy when the file will get larger and more complex),
-  - publish the bot, so it can be used with external applications such as Microsoft Team or Facebook messenger.
+  - publish the bot, so it can be used with external applications such as Microsoft Team or Facebook Messenger.
