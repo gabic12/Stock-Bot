@@ -4,6 +4,8 @@ Requirements:
  - latest version of Python installed (I have used Python 3.12),
  - an IDE to view the code (I have used Visual Studio Code).
 
+ The bot can be launcheg by running stockBot.py file and, if the requirements are meet, it will open a console window.
+
 This is a simple bot that runs in the console, so I will set up an improvement plan to be done in the future:
   - add a graphic interface to it to improve user experience,
   - add a natural language functionality, such as Python's nltk,
