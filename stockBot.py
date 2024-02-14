@@ -157,4 +157,4 @@ while True:
         topStockMenu(stockExchange)
 
     else:
-        print("\nI didn't understand that.\n")
+        print("\nI didn't understand that.")
